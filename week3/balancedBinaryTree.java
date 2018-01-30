@@ -14,7 +14,6 @@
 public class Solution {
   public int isBalanced(TreeNode A) {
     int heightOfLeft;
-
     int heightOfRight;
 
     if (A == null)
